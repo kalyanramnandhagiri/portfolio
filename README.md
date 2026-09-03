@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Kalyan Ram — React Portfolio
 
 A responsive one-page portfolio for a Java Full Stack Developer.
@@ -38,3 +39,6 @@ The supplied resume PDF has been added to the portfolio and is available through
 
 ## Personal links
 Replace the placeholder GitHub and LinkedIn URLs in `src/main.jsx` with your actual profile URLs.
+=======
+# portfolio
+>>>>>>> 82b0101ab175bdad3080d50967a0554a40e96d0b
